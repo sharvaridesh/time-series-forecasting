@@ -1,8 +1,8 @@
 # Time Series Forecasting
 
-time series forecasting.py : main code
-shdeshpa.csv : dataset used
-forecasting.pdf : report
+- time series forecasting.py : main code
+- shdeshpa.csv : dataset used
+- forecasting.pdf : report
 
 ## Implementation
 
